@@ -1,0 +1,52 @@
+/* Colors
+
+*/
+
+body {
+    background-color: #f8f8f8;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#main {
+    margin: 0 auto;
+}
+
+#img {
+  width: 100%;
+  height: auto;
+  margin: auto;
+}
+
+#img-div #img {
+    background-color: #fff;
+    padding: 20px;
+}
+
+figcaption {
+    font-size: 12px;
+    font-style: italic;
+}
+
+ul {
+    font-size: 21px;
+    list-style-position: outside;
+    list-style-type: none;
+    margin: auto;
+}
+
+li {
+    padding: 1rem;
+}
+
+p{
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin-top: 1.4rem;
+}
+
+a {
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-top: 1.4rem;
+  }
